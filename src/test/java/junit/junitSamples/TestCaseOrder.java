@@ -8,7 +8,7 @@ import org.junit.runners.MethodSorters;
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class TestCaseOrder {
-
+ 
 		@Test
 	    public void secondTest() {
 	        System.out.println("Executing second test");
