@@ -3,7 +3,7 @@ package junit.junitSamples;
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;
-
+ 
 public class TestRunner {
 	 public static void main(String[] args) {
 	     //Result result = JUnitCore.runClasses(TestJunit1.class,TestJunit2.class);

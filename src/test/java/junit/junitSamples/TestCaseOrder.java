@@ -13,7 +13,7 @@ public class TestCaseOrder {
 	    public void secondTest() {
 	        System.out.println("Executing second test");
 	    }
-	 
+	  
 	    @Test
 	    public void firstTest() {
 	        System.out.println("Executing first test");
